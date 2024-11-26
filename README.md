@@ -6,7 +6,7 @@
 - 📫 How to reach me:  
   - 📧 Email: [evelin_coscia@hotmail.com](mailto:evelin_coscia@hotmail.com)  
   - 🌐 LinkedIn: [Evelin Coscia](http://www.linkedin.com/in/evelincoscia)
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She
 - ⚡ Fun fact: I have over 20 years of experience as a mathematics teacher in secondary and higher education!
 
 <!---
