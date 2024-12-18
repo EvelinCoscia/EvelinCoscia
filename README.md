@@ -7,7 +7,7 @@
   - 📧 Email: [evelin_coscia@hotmail.com](mailto:evelin_coscia@hotmail.com)  
   - 🌐 LinkedIn: [Evelin Coscia](http://www.linkedin.com/in/evelincoscia)
 - 😄 Pronouns: She
-- ⚡ Fun fact: I have over 20 years of experience as a mathematics teacher in secondary and higher education!
+- ⚡ Fun fact: I have over 20 years of experience as a maths teacher in secondary education!
 
 <!---
 EvelinCoscia/EvelinCoscia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
